@@ -37421,262 +37421,69 @@
     219: [function(t, e, i) {
         e.exports = {
             content: [{
-                url: "https://clonex.rtfkt.com/",
+                url: "akira.html",
                 classname: "light",
-                title: "Clonex",
-                subtitle: "Metaverse Builder w/ @RTFKT",
-                tags: "[ WebGL / PFP project / Light Source ] ",
-                description: "Shading Ninja / Creative coder / Murakami / 🥷🏼",
+                title: "Project Akira",
+                subtitle: "Metaverse Builder / 腾讯 IEG ",
+                tags: "[ WebGL / AFrame / Project Akira ] ",
+                description: "WebXR Dev / Creative Technologist /",
                 video: "akira.mp4"
-            }, {
-                url: "https://samsy.ninja/nocompute/index.html",
+            }, 
+            {
+                url: "https://www.hsbcnet.com/",
                 classname: "light",
-                title: "Jiometory No Compute",
-                subtitle: "ジオメトリ ハ ケイサンサレマセン",
-                tags: "[ WebGL / Long Form Generative art ] ",
-                description: "Artblock / NFT / crypto ",
-                video: "jio.mp4"
-            }, {
-                url: "https://vimeo.com/444254918",
+                title: "HSBCnet.com",
+                subtitle: "汇丰银行网上平台 | HSBC Global Banking Application",
+                tags: "[ React / Smart Banking ] ",
+                description: "React Dev / Micro Frontend / Info-Graphic",
+                video: "hsbcnet-ai.mp4"
+            },
+            {
+                url: "lunar.html",
                 classname: "light",
-                title: "TomorrowLand </br> Around The World",
-                subtitle: "WebGL map & Festival @Dogstudio",
-                tags: "[ WebGL / Debug god tools / 1 million viewers ] ",
-                description: "WebGL Tech Director / Creative coder / performances advocate",
-                video: "tmls.mp4",
-                prices: "Fwa",
-                custom: {
-                    text: "case",
-                    link: "https://thefwa.com/cases/tomorrowland-around-the-world"
-                }
-            }, {
-                url: "https://virtualexpodubai.com/",
+                title: "嫦娥计划 </br> 虚拟交互场景",
+                subtitle: "WebGL + MiniApp w/ 上海天文馆",
+                tags: "[ WebGL / 3D小程序 / Shanghai Astronomy Museum ] ",
+                description: "WebGL Development / Creative coder",
+                video: "lunar.mp4",
+            },
+            {
+                url: "tornado.html",
                 classname: "light",
-                title: "World Exposition </br> Dubaï 2020",
-                subtitle: "WebGL on site replica w/ @Dogstudio",
-                tags: "[ WebGL / Debug god tools / World Event ] ",
-                description: "WebGL Tech Director / Creative coder / performances advocate",
-                video: "dubai.mp4",
-                prices: "Fwa",
-                custom: {
-                    text: "case",
-                    link: "https://dogstudio.co/cases/virtual-expo-dubai-2020/"
-                }
-            }, {
-                url: "https://cryptopunk.rtfkt.com/",
+                title: "Taikoo Li 3D Visual Facade",
+                subtitle: "太古里户外大屏裸眼3D动画",
+                tags: "[ WebGL / Naked-eye 3D ] ",
+                description: "成都-太古里 / Outdoor art / 6.18 ",
+                video: "tkl-screen.mp4"
+            },
+            {
+                url: "404.html",
                 classname: "light",
-                title: "CryptoPunk </br>Sneakers Metaverse",
-                subtitle: "NFT-drop / RTFKT Design studio",
+                title: "毒App </br>Sneakers Metaverse",
+                subtitle: "NFT-drop / Punk® by DeWu Design studio",
                 tags: "[ Voxels / Glitches / cheat codes / WebGL ] ",
-                description: "WebGL architecture & development / Shader ninja / week-end RIP.",
-                video: "cryptopunk.mp4"
-            }, {
-                url: "https://naoz.live/",
+                description: "React Framework / 3D eCommerce / week-end RIP.",
+                video: "sneakers.mp4"
+            },
+            {
+                url: "https://virtualexpodubai.com/opportunity-district?pavilion=china",
                 classname: "light",
-                title: "NAOZ </br> Persistent Digital Venue",
-                subtitle: "Digital Entertainment Venue",
-                tags: "[ WebGL / Debug god tools / Festival Engine ] ",
-                description: "WebGL Tech Director & development / Shader writer",
-                video: "naoz.mp4"
-            }, {
-                url: "https://heyhush.com/work/capital-one-workplace-brand-visualizations/",
+                title: "杜拜2020世博会 </br> 中国馆 China Palivion",
+                subtitle: "虚拟场馆建模 w/ @Dogstudio",
+                tags: "[ WebGL / Debug god tools / Dubaï 2020 World Expo ] ",
+                description: "WebGL Development / Creative coder / performances advocate",
+                video: "dubai2020-china.mp4",
+            },
+            {
+                url: "earlier-projects.html",
                 classname: "light",
-                title: "Capital One </br> Brand Visualizations",
-                subtitle: "Dataviz / Hush design agency",
-                tags: "[ True 16K webgl backbuffer / gigantic walls / custom browser ] ",
-                description: "WebGL architecture & development / Creative technologist / performances advocate",
-                video: "capital.mp4",
-                custom: {
-                    text: "watch video",
-                    link: "https://vimeo.com/267591039"
-                }
-            }, {
-                url: "https://stonewallforever.org/",
-                classname: "light",
-                title: "Google </br> Stonewall Forever",
-                subtitle: "Procedural Monument / LGBT Center ",
-                tags: "webgl / es6 / postprocessing / glsl",
-                description: "Creative Tech / Webgl Arch / 3D Lead / Perf advocate",
-                video: "lgbt.mp4",
-                prices: "Fwa / Awwward"
-            }, {
-                url: "http://samsy.ninja/tiltbrush/index.html",
-                classname: "light",
-                title: "TiltBrush WebAR",
-                subtitle: "Reverse Engineering / TiltBrush / Augmented Reality",
-                tags: "webgl / es6 / postprocessing / glsl",
-                description: "Shading ninja / Personal",
-                video: "tiltbrush.mp4",
-                prices: ""
-            }, {
-                url: "https://dogstudio.co/",
-                classname: "light",
-                title: "Dog Interactivity",
-                subtitle: "WebGL Nav / Matcap Skinning / Dogstudio",
-                tags: "webgl / es6 / draco / skinning",
-                description: "Webgl Arch",
-                video: "dogcut.mp4",
-                prices: "Fwa / Awwward"
-            }, {
-                title: "Google </br> Qalam Creator",
-                subtitle: "Tilt Brush Reverse Engineering / Stink Studios",
-                tags: "webgl / glsl / calligraphy",
-                description: "WebGL advocate / tiltbrush workflow designer",
-                video: "qalam.mp4",
-                url: "https://qalam.withgoogle.com",
-                classname: "light",
-                prices: "Fwa",
-                custom: {
-                    text: "case study",
-                    link: "https://medium.com/@stinkstudios/creating-qalam-d016a0a52d56"
-                }
-            }, {
-                url: "https://here.com/visionVR/",
-                classname: "light",
-                title: "HERE Vision",
-                subtitle: "Mobile webVR / 3D Sequencer / B-Reel",
-                tags: "webgl / es6 / postprocessing / glsl",
-                description: "VR Lead dev / Shading ninja / Stereoscopic theory lead",
-                video: "here.mp4",
-                prices: ""
-            }, {
-                title: "Kikk AR <br> Festival",
-                subtitle: "Augmented Reality Exhibition",
-                tags: "ARKit / webgl",
-                description: "Co-conceptor / tech director & artist / Dogstudio",
-                video: "kikk2.mp4",
-                url: "https://vimeo.com/299883293?fbclid=IwAR1b30VfE0Gm9LstmWHY0KT38aceCch9wC0xeYpS6lhjDmpiNxAjY6U9agQ",
-                classname: "light",
-                prices: ""
-            }, {
-                title: "Arkade London",
-                subtitle: "Audio Reactive Art",
-                tags: "webgl / es6 / postprocessing / glsl",
-                description: "Initiator / Conceptor / webgl & front end developer",
-                video: "arkade.mp4",
-                url: "http://arkade.samsy.ninja",
-                classname: "light",
-                prices: "Fwa / Awwward / Chrome Experiment",
-                custom: {
-                    text: "watch video",
-                    link: "https://vimeo.com/175949917"
-                }
-            }, {
-                title: "Intangible Matter",
-                subtitle: "Webgl Artwork for Chanel / Stink Studios",
-                tags: "webgl / threejs / react",
-                description: "Webgl Shader advocate, Make up and optimiser",
-                video: "chanel.mp4",
-                url: "https://lucyhardcastle-thefifthsense.i-d.co/en_gb/",
-                classname: "light",
-                prices: "Fwa / Awwward",
-                custom: {
-                    text: "watch video",
-                    link: "https://www.youtube.com/watch?v=y7hTuqxq14Y"
-                }
-            }, {
-                title: "HERE Autonomous World",
-                subtitle: "Background Artwork / UV-Looping tech / B-Reel ",
-                tags: "webgl / glsl / float tex workaround ;)",
-                description: "WebGL glsl advocate",
-                video: "autonomous.mp4",
-                url: "https://here.com/en/vision/autonomous-world",
-                classname: "light",
-                prices: ""
-            }, {
-                title: "In-form.io",
-                subtitle: "Prototype WIP ",
-                tags: "webgl / backbone / postprocessing / glsl",
-                description: "Initiator / Conceptor / webgl & front end developer",
-                video: "inform.mp4",
-                url: "http://samsy.ninja/archive/inform/index.html",
-                classname: "light",
-                prices: ""
-            }, {
-                title: "SuperCharge",
-                subtitle: "A webAR demo",
-                tags: "Experiment / postprocessing / webAR / lines",
-                description: "3D AR alone developer",
-                video: "supercharge.mp4",
-                url: "https://nexusinteractivearts.com/egg/supercharge/",
-                classname: "light",
-                prices: ""
-            }, {
-                title: "Steven Mengin",
-                subtitle: "Experiment / Tumblr like",
-                tags: "webgl / no-framework",
-                description: "Webgl dev and front-end alone dev",
-                video: "steven.mp4",
-                url: "http://stevenmengin.com",
-                classname: "light",
-                prices: "Fwa / Awwward / Siteinspire"
-            }, {
-                title: "Speak to go",
-                subtitle: "A googleVR project",
-                tags: "webgl / speech-recognition / google street view",
-                description: "Creative and Prototyper",
-                video: "webvro.mp4",
-                url: "https://webvrexperiments.com/experiment/speak-to-go",
-                classname: "light",
-                prices: "WebVR Chrome experiment"
-            }, {
-                title: "Sonoran's Valley",
-                subtitle: "3D real time desert storm",
-                tags: "webgl / speech-recognition / google street view",
-                description: "Initiator / Conceptor / Lead developer",
-                video: "sonorans.mp4",
-                url: "http://sonorans-valley.com/",
-                classname: "light",
-                prices: "Fwa / Awwward / Chrome experiment / Digg / Dite inspire"
-            }, {
-                title: "The Legend of Icecoon",
-                subtitle: "Christmas Experiment / Journey in Diamonds Cave",
-                tags: "webgl / Mobile / postprocessing / glsl / Optmizer",
-                description: "Initiator / Conceptor / 3D Dev",
-                video: "xmas.mp4",
-                url: "http://christmasexperiments.com/2016/20/the-legend-of-the-icecoon/",
-                classname: "light",
-                prices: "Fwa"
-            }, {
-                title: "Daedelus Labyrinths",
-                subtitle: "Audio reactive GIF Generator",
-                tags: "webgl / Mobile / postprocessing / glsl / webaudio",
-                description: "Tech Director / 3D dev / WebAudio",
-                video: "daedelus.mp4",
-                url: "http://player.whitestone.io/Daedelus/music/Labyrinths/",
-                classname: "light",
-                prices: "The Creator Projects",
-                custom: {
-                    text: "watch video",
-                    link: "https://www.youtube.com/watch?v=onMRZ9N59-0"
-                }
-            }, {
-                title: "Parallel studio",
-                subtitle: "Indie 360 video game studio portfolio",
-                tags: "webgl / 360 / mobile",
-                description: "Tech lead / Front developer",
-                video: "parallel.mp4",
-                url: "http://parallel-studio.com",
-                classname: "light",
-                prices: ""
-            }, {
-                title: "Grouek.com",
-                subtitle: "Magic Scroller and transitionner / portfolio",
-                tags: "canvas / backbone",
-                description: "Lead developer",
-                video: "grouek.mp4",
-                url: "http://grouek.com",
-                classname: "light",
-                prices: "Fwa / Awward"
-            }, {
-                title: "Lightizon",
-                subtitle: "Real time light painting installation",
-                tags: "openframeworks / opengl / glsl",
-                description: "Academic project director / Lead developer",
-                video: "lightizon.mp4",
-                url: "https://www.youtube.com/watch?v=tbQBR1gyNGo",
-                classname: "light"
-            }]
+                title: "More earlier projects </br> 早期项目",
+                subtitle: "Uploading to Metaverse 正在上传到元宇宙",
+                tags: "[ WebGL / Metaverse ] ",
+                description: "Digital Artist / Creative Technologist ",
+                video: "earlier-projects.mp4"
+            },
+            ]
         }
     }
     , {}],
@@ -39664,7 +39471,7 @@
                 value: function() {
                     var t = this;
                     return new Promise(function(e, i) {
-                        t.addSource("mp4", "./media/video/" + h.video).then(function() {
+                        t.addSource("mp4", "./assets/video/" + h.video).then(function() {
                             e()
                         })
                     }
@@ -39682,6 +39489,11 @@
                         }
                         ,
                         i.video.addEventListener("canplay", function() {}, !1),
+                        // [mod]
+                        i.video.addEventListener('error', (err) => {
+                            console.warn(err)
+                            n()
+                        }),
                         i.video.setAttribute("src", e),
                         i.video.setAttribute("type", "video/" + t),
                         i.video.load()
